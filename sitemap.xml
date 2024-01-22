@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wangqibest.cn/about/index.html</loc>
+    <loc>https://bestwangqi.github.io/about/index.html</loc>
     
     <lastmod>2024-01-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wangqibest.cn/2024/01/21/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://bestwangqi.github.io/2024/01/21/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2024-01-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://wangqibest.cn/2024/01/21/hello-world/</loc>
+    <loc>https://bestwangqi.github.io/2024/01/21/hello-world/</loc>
     
     <lastmod>2024-01-21</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>https://wangqibest.cn/</loc>
+    <loc>https://bestwangqi.github.io/</loc>
     <lastmod>2024-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>https://wangqibest.cn/tags/PS3/</loc>
+    <loc>https://bestwangqi.github.io/tags/PS3/</loc>
     <lastmod>2024-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wangqibest.cn/tags/Games/</loc>
+    <loc>https://bestwangqi.github.io/tags/Games/</loc>
     <lastmod>2024-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -54,7 +54,7 @@
 
   
   <url>
-    <loc>https://wangqibest.cn/categories/Diary/</loc>
+    <loc>https://bestwangqi.github.io/categories/Diary/</loc>
     <lastmod>2024-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
