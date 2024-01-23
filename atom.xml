@@ -6,54 +6,40 @@
   <link href="https://bestwangqi.github.io/atom.xml" rel="self"/>
   
   <link href="https://bestwangqi.github.io/"/>
-  <updated>2024-01-21T14:33:16.352Z</updated>
+  <updated>2024-01-23T05:01:40.645Z</updated>
   <id>https://bestwangqi.github.io/</id>
+  
+  <author>
+    <name>wangqi</name>
+    
+  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试测试</title>
-    <link href="https://bestwangqi.github.io/2024/01/21/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/"/>
-    <id>https://bestwangqi.github.io/2024/01/21/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/</id>
+    <title>如何在六个月内掌握一门外语 | 克利斯・伦戴尔 |</title>
+    <link href="https://bestwangqi.github.io/2024/01/21/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%85%AD%E4%B8%AA%E6%9C%88%E5%86%85%E6%8E%8C%E6%8F%A1%E4%B8%80%E9%97%A8%E5%A4%96%E8%AF%AD/"/>
+    <id>https://bestwangqi.github.io/2024/01/21/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%85%AD%E4%B8%AA%E6%9C%88%E5%86%85%E6%8E%8C%E6%8F%A1%E4%B8%80%E9%97%A8%E5%A4%96%E8%AF%AD/</id>
     <published>2024-01-21T11:32:14.000Z</published>
-    <updated>2024-01-21T14:33:16.352Z</updated>
+    <updated>2024-01-23T05:01:40.645Z</updated>
     
-    <content type="html"><![CDATA[<p>在身体这个范畴内，「紧张」绝对是一种不受欢迎的状态。与紧张密切相关的词还有这样几个：僵硬、体态不良、呼吸受限、功能受阻、慢性疼痛。这些现象和模式在同一个人身上往往相互关联、互为因果。我们不可能也没有必要穷尽分析、罗列一个线性的「关系图谱」。但我们显然可以达成一个共识：减少身体的紧张，对自己总是有利无害的。</p><p>我们都要好好的</p><p>你好啊啊啊啊啊</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;在身体这个范畴内，「紧张」绝对是一种不受欢迎的状态。与紧张密切相关的词还有这样几个：僵硬、体态不良、呼吸受限、功能受阻、慢性疼痛。这些现象和模式在同一个人身上往往相互关联、互为因果。我们不可能也没有必要穷尽分析、罗列一个线性的「关系图谱」。但我们显然可以达成一个共识：减少身</summary>
-      
-    
-    
-    
-    <category term="Diary" scheme="https://bestwangqi.github.io/categories/Diary/"/>
-    
-    
-    <category term="PS3" scheme="https://bestwangqi.github.io/tags/PS3/"/>
-    
-    <category term="Games" scheme="https://bestwangqi.github.io/tags/Games/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://bestwangqi.github.io/2024/01/21/hello-world/"/>
-    <id>https://bestwangqi.github.io/2024/01/21/hello-world/</id>
-    <published>2024-01-21T08:20:21.681Z</published>
-    <updated>2024-01-21T08:20:21.682Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>克利斯・伦戴尔是一位语言学家和教育家，他致力于帮助人们在短时间内学习外语。在本视频中，他分享了他的 “六个月法则”，即在六个月内掌握一门外语的方法。</p><p>伦戴尔认为，传统的语言学习方法是错误的。传统方法过于注重语法规则和词汇量，而忽视了语言的使用。他认为，要想快速学习一门外语，必须要从 “使用” 语言开始。</p><h2 id="一-伦戴尔的-六个月法则-基于以下四个原则"><a class="markdownIt-Anchor" href="#一-伦戴尔的-六个月法则-基于以下四个原则"></a> 一、伦戴尔的 “六个月法则” 基于以下四个原则</h2><ol><li>沉浸学习：在学习过程中，尽量将自己置身于目标语言的环境中。</li><li>自然学习：让自己自然地接触目标语言，而不是刻意地学习语法规则和词汇量。</li><li>重复练习：反复练习目标语言，直到能够流利地使用。</li><li>积极主动：主动使用目标语言，而不是等待机会。</li></ol><h2 id="二-伦戴尔还分享了一些具体的学习方法"><a class="markdownIt-Anchor" href="#二-伦戴尔还分享了一些具体的学习方法"></a> 二、伦戴尔还分享了一些具体的学习方法</h2><ol><li>使用目标语言的媒体：看电影、“听音乐”、阅读书籍等。</li><li>与母语人士交流：寻找机会与母语人士交流，练习口语。</li><li>使用语言学习软件：语言学习软件可以帮助你提高词汇量和语法知识。</li></ol><p>伦戴尔认为，只要遵循 “六个月法则” 和具体的学习方法，任何人都可以在六个月内掌握一门外语。</p><p><img src="https://images.unsplash.com/photo-1682685797795-5640f369a70a?q=80&amp;w=1000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /></p><blockquote><p><a href="https://youtu.be/d0yGdNEWdn0?si=AnQtfgjWGN-74anN">如何在六个月内掌握一门外语 | 克利斯・伦戴尔 | TEDxLingnanUniversity</a></p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;克利斯・伦戴尔是一位语言学家和教育家，他致力于帮助人们在短时间内学习外语。在本视频中，他分享了他的 “六个月法则”，即在六个月内掌握一门外语的方法。&lt;/p&gt;
+&lt;p&gt;伦戴尔认为，传统的语言学习方法是错误的。传统方法过于注重语法规则和词汇量，而忽视了语言的使用。他认为，要想快速</summary>
       
     
     
     
+    <category term="english learning" scheme="https://bestwangqi.github.io/categories/english-learning/"/>
+    
+    
+    <category term="youtube" scheme="https://bestwangqi.github.io/tags/youtube/"/>
+    
+    <category term="bard" scheme="https://bestwangqi.github.io/tags/bard/"/>
     
   </entry>
   
